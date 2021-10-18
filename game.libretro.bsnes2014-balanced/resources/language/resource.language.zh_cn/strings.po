@@ -22,7 +22,7 @@ msgid "Nintendo - SNES / SFC (bsnes 2014 Balanced) v094 (Balanced)"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "A libretro fork of bSNES. As close to upstream as possible.[CR][CR]The \"Balanced\" profile is a good compromise between accuracy and performance."
+msgid "A libretro fork of bSNES. As close to upstream as possible.[CR][CR]The [I]Balanced[/I] profile is a good compromise between accuracy and performance."
 msgstr "bSNES 的 libretro 分支。尽可能接近原始项目。[CR][CR]“平衡”配置文件是精度和性能之间的良好折衷。"
 
 msgctxt "Addon Disclaimer"
