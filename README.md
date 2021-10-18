@@ -1,6 +1,30 @@
-# game.libretro.bsnes2014-balanced addon for Kodi
-
-This is a [Kodi](http://kodi.tv) game addon for Nintendo - SNES / SFC (bsnes 2014 Balanced).
-
 [![Build Status](https://travis-ci.org/kodi-game/game.libretro.bsnes2014-balanced.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.bsnes2014-balanced)
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.bsnes2014-balanced?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-bsnes2014-balanced)
+
+# Nintendo - SNES / SFC (bsnes 2014 Balanced)
+
+### Description
+A libretro fork of bSNES. As close to upstream as possible.
+
+The "Balanced" profile is a good compromise between accuracy and performance.
+
+### License
+GPLv3
+
+### Icon
+
+![Icon](game.libretro.bsnes2014-balanced/resources/icon.png)
+
+### Screenshots
+
+![Screenshot](game.libretro.bsnes2014-balanced/resources/screenshot-01.jpg)
+
+![Screenshot](game.libretro.bsnes2014-balanced/resources/screenshot-02.jpg)
+
+![Screenshot](game.libretro.bsnes2014-balanced/resources/screenshot-03.jpg)
+
+
+### Disclaimer
+
+*In loving memory of Near / Byuu*
+
