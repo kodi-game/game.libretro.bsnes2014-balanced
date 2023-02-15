@@ -26,6 +26,7 @@
 		</assets>
 		<summary lang="en_GB">Nintendo - SNES / SFC (bsnes 2014 Balanced) v094 (Balanced)</summary>
 		<description lang="da_DK">En libretro-fork af bSNES. Så tæt på upstream som muligt.[CR][CR]Profilen [I]Balanceret[/I] er et godt kompromis mellem nøjagtighed og ydeevne.</description>
+		<description lang="de_DE">Ein libretro-Fork von bSNES. Das [I]Ausgewogene[/I] Profil ist ein guter Kompromiss zwischen Genauigkeit und Leistung.</description>
 		<description lang="en_GB">A libretro fork of bSNES. As close to upstream as possible.[CR][CR]The [I]Balanced[/I] profile is a good compromise between accuracy and performance.</description>
 		<description lang="es_ES">Una bifurcación libretro de bSNES. Lo más parecido posible a la versión original.[CR][CR]El perfil [I]Balanced[/I] es un buen equilibrio entre precisión y rendimiento.</description>
 		<description lang="it_IT">Un fork libretro di bSNES. Il più vicino possibile all&apos;upstream.[CR][CR]Il profilo [I]Balanced[/I] è un buon compromesso tra accuratezza e prestazioni.</description>
@@ -33,6 +34,7 @@
 		<description lang="ru_RU">Форк bSNES от libretro. Близок к основному проекту насколько это возможно. [CR][CR][I]Сбалансированный[/I] профиль является хорошим компромиссом между точностью и производительностью.</description>
 		<description lang="zh_CN">bSNES 的 libretro 分支。尽可能接近原始项目。[CR][CR][I]平衡 [/I] 配置文件是精度和性能之间的良好折衷。</description>
 		<disclaimer lang="da_DK">I kærligt minde om Near / Byuu</disclaimer>
+		<disclaimer lang="de_DE">In liebevoller Erinnerung an Near / Byuu</disclaimer>
 		<disclaimer lang="en_GB">In loving memory of Near / Byuu</disclaimer>
 		<disclaimer lang="es_ES">En cariñoso recuerdo de Near / Byuu</disclaimer>
 		<disclaimer lang="it_IT">In amorevole ricordo di Near / Byuu</disclaimer>
