@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 msgctxt "Addon Summary"
-msgid "Nintendo - SNES / SFC (bsnes 2014 Balanced) v094 (Balanced)"
+msgid "Nintendo - SNES / SFC (bsnes 2014 Balanced)"
 msgstr ""
 
 msgctxt "Addon Description"
