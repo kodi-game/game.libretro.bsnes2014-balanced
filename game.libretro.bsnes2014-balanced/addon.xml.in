@@ -24,6 +24,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="da_DK">Nintendo - SNES / SFC (bsnes 2014 balanceret)</summary>
 		<summary lang="en_GB">Nintendo - SNES / SFC (bsnes 2014 Balanced)</summary>
 		<summary lang="es_ES">Nintendo - SNES / SFC (bsnes 2014 Balanceado)</summary>
 		<description lang="da_DK">En libretro-fork af bSNES. Så tæt på upstream som muligt.[CR][CR]Profilen [I]Balanceret[/I] er et godt kompromis mellem nøjagtighed og ydeevne.</description>
